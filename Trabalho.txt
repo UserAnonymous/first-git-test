@@ -1,1 +1,2 @@
-Git é muito legal.
+Git é muito legal. Ele tambem permite sincronizar com o github, que é uma ferramenta mt legal.
+
